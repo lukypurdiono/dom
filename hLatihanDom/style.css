@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    width: 100%;
+    height: 100%;
+    font-family: poppins, sans-serif;
+    text-align: center;
+}
+
+h1{
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+button{
+    padding: 10px;
+    border: none;
+    background-color: aquamarine;
+    border-radius: 10px;
+    display: block;
+    margin: 10px auto;
+
+}
+
+.biru-muda{
+    background-color: brown;
+}
+
+.merah{
+    width: 35px;
+    height: 35px;
+    background-color: red;
+    margin: 10px auto;
+}
+
+.hijau{
+    width: 35px;
+    height: 35px;
+    background-color: green;
+    margin: 10px auto;
+}
+
+.biru{
+    width: 35px;
+    height: 35px;
+    background-color: blue;
+    margin: 10px auto;
+}
